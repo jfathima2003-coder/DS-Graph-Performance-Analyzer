@@ -8,7 +8,7 @@ algorithms (steps and execution time). Built for CIT300 Graded Practical Assignm
 ## Team Members
 
 ### Member 1 & 5
-- **Student Name:** Fathima (ADD FULL NAME)
+- **Student Name:** Fathima 
 - **Student ID:** 23DA2-0570
 - **Assigned Responsibility:** Array, Searching, Performance Comparison, Main Menu, Integration
 - **Individual Contribution:**
@@ -19,7 +19,7 @@ algorithms (steps and execution time). Built for CIT300 Graded Practical Assignm
   - Tested the complete system
 
 ### Member 2
-- **Student Name:** Risny (ADD FULL NAME)
+- **Student Name:** Risny 
 - **Student ID:** 23DA2-0694
 - **Assigned Responsibility:** Stack and Queue
 - **Individual Contribution:**
@@ -28,8 +28,8 @@ algorithms (steps and execution time). Built for CIT300 Graded Practical Assignm
   - Tested and integrated with the main application
 
 ### Member 3
-- **Student Name:** Nameek (ADD FULL NAME)
-- **Student ID:** 23DA2-0800
+- **Student Name:** Thasnim
+- **Student ID:** 23DA2-0556
 - **Assigned Responsibility:** Linked List
 - **Individual Contribution:**
   - Implemented `MyLinkedList` with a `Node` class
@@ -37,8 +37,8 @@ algorithms (steps and execution time). Built for CIT300 Graded Practical Assignm
   - Tested and integrated with the main application
 
 ### Member 4
-- **Student Name:** Thasnim (ADD FULL NAME)
-- **Student ID:** 23DA2-0556
+- **Student Name:** Nameek 
+- **Student ID:** 23DA2-0800
 - **Assigned Responsibility:** Graph Component
 - **Individual Contribution:**
   - Implemented `Graph` using an adjacency list
